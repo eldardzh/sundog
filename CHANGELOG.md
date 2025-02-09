@@ -6,3 +6,4 @@ This log tracks architectural and documentation refinements.
 - `2024-11-28` — surface key invariants
 - `2024-11-29` — heading hierarchy
 - `2025-02-08` — cross-link related repositories
+- `2025-02-09` — refine engineering invariants
