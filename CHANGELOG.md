@@ -8,3 +8,4 @@ This log tracks architectural and documentation refinements.
 - `2025-02-08` — cross-link related repositories
 - `2025-02-09` — refine engineering invariants
 - `2025-02-09` — expand 'My Role' section
+- `2025-02-09` — terminology cleanup
