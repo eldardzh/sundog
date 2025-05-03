@@ -11,3 +11,4 @@ This log tracks architectural and documentation refinements.
 - `2025-02-09` — terminology cleanup
 - `2025-03-18` — improve mermaid diagram
 - `2025-04-10` — clarify component responsibilities
+- `2025-05-03` — cross-link related repositories
