@@ -15,3 +15,4 @@ This log tracks architectural and documentation refinements.
 - `2025-05-06` — tighten decisions section
 - `2025-07-16` — production status update
 - `2025-07-18` — tighten architecture overview
+- `2025-07-18` — production status update
