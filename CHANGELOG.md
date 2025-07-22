@@ -19,3 +19,4 @@ This log tracks architectural and documentation refinements.
 - `2025-07-20` — more precise stack list
 - `2025-07-21` — clarify component responsibilities
 - `2025-07-21` — production status update
+- `2025-07-22` — markdown lint
