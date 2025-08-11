@@ -22,3 +22,4 @@ This log tracks architectural and documentation refinements.
 - `2025-07-22` — markdown lint
 - `2025-08-04` — terminology cleanup
 - `2025-08-11` — rephrase capabilities
+- `2025-08-11` — rephrase TL;DR
