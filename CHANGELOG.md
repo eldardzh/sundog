@@ -24,3 +24,4 @@ This log tracks architectural and documentation refinements.
 - `2025-08-11` — rephrase capabilities
 - `2025-08-11` — rephrase TL;DR
 - `2025-08-12` — improve mermaid diagram
+- `2025-08-12` — improve mermaid diagram
