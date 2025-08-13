@@ -26,3 +26,4 @@ This log tracks architectural and documentation refinements.
 - `2025-08-12` — improve mermaid diagram
 - `2025-08-12` — improve mermaid diagram
 - `2025-08-13` — cross-link related repositories
+- `2025-08-13` — improve mermaid diagram
