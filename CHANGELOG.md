@@ -28,3 +28,4 @@ This log tracks architectural and documentation refinements.
 - `2025-08-13` — cross-link related repositories
 - `2025-08-13` — improve mermaid diagram
 - `2025-08-13` — clarify component responsibilities
+- `2025-08-14` — contact block tidy
