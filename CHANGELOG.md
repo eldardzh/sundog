@@ -31,3 +31,4 @@ This log tracks architectural and documentation refinements.
 - `2025-08-14` — contact block tidy
 - `2025-08-14` — tighten decisions section
 - `2025-08-14` — ADR — chain-agnostic boundary
+- `2025-08-14` — heading hierarchy
