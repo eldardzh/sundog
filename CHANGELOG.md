@@ -29,3 +29,4 @@ This log tracks architectural and documentation refinements.
 - `2025-08-13` — improve mermaid diagram
 - `2025-08-13` — clarify component responsibilities
 - `2025-08-14` — contact block tidy
+- `2025-08-14` — tighten decisions section
