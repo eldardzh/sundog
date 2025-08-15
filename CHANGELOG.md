@@ -33,3 +33,4 @@ This log tracks architectural and documentation refinements.
 - `2025-08-14` — ADR — chain-agnostic boundary
 - `2025-08-14` — heading hierarchy
 - `2025-08-14` — markdown lint
+- `2025-08-15` — badge refresh
