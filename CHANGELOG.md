@@ -36,3 +36,4 @@ This log tracks architectural and documentation refinements.
 - `2025-08-15` — badge refresh
 - `2025-08-15` — trailing whitespace
 - `2025-08-16` — refine engineering invariants
+- `2025-08-16` — license notice
