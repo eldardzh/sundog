@@ -39,3 +39,4 @@ This log tracks architectural and documentation refinements.
 - `2025-08-16` — license notice
 - `2025-08-19` — surface key invariants
 - `2025-08-20` — improve mermaid diagram
+- `2025-08-20` — rephrase TL;DR
