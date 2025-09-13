@@ -41,3 +41,4 @@ This log tracks architectural and documentation refinements.
 - `2025-08-20` — improve mermaid diagram
 - `2025-08-20` — rephrase TL;DR
 - `2025-09-12` — badge refresh
+- `2025-09-13` — contact block tidy
