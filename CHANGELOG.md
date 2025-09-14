@@ -42,3 +42,4 @@ This log tracks architectural and documentation refinements.
 - `2025-08-20` — rephrase TL;DR
 - `2025-09-12` — badge refresh
 - `2025-09-13` — contact block tidy
+- `2025-09-14` — more precise stack list
