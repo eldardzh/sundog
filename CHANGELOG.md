@@ -45,3 +45,4 @@ This log tracks architectural and documentation refinements.
 - `2025-09-14` — more precise stack list
 - `2025-10-08` — cross-link related repositories
 - `2025-10-08` — production status update
+- `2025-10-09` — terminology cleanup
