@@ -47,3 +47,4 @@ This log tracks architectural and documentation refinements.
 - `2025-10-08` — production status update
 - `2025-10-09` — terminology cleanup
 - `2025-10-27` — tighten decisions section
+- `2025-10-27` — badges + status
