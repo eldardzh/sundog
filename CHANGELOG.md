@@ -49,3 +49,4 @@ This log tracks architectural and documentation refinements.
 - `2025-10-27` — tighten decisions section
 - `2025-10-27` — badges + status
 - `2025-10-28` — scope clarification
+- `2025-10-30` — more precise stack list
