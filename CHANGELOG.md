@@ -51,3 +51,4 @@ This log tracks architectural and documentation refinements.
 - `2025-10-28` — scope clarification
 - `2025-10-30` — more precise stack list
 - `2025-11-05` — refine engineering invariants
+- `2025-11-05` — tighten architecture overview
