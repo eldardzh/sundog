@@ -53,3 +53,4 @@ This log tracks architectural and documentation refinements.
 - `2025-11-05` — refine engineering invariants
 - `2025-11-05` — tighten architecture overview
 - `2025-11-05` — tighten architecture overview
+- `2025-11-26` — link external references
