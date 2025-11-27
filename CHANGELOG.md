@@ -54,3 +54,4 @@ This log tracks architectural and documentation refinements.
 - `2025-11-05` — tighten architecture overview
 - `2025-11-05` — tighten architecture overview
 - `2025-11-26` — link external references
+- `2025-11-27` — license notice
