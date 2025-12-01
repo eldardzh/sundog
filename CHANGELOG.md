@@ -62,3 +62,4 @@ This log tracks architectural and documentation refinements.
 - `2025-11-30` — badge refresh
 - `2025-12-01` — clarify component responsibilities
 - `2025-12-01` — terminology cleanup
+- `2025-12-01` — improve mermaid diagram
