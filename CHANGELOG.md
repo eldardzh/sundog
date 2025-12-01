@@ -60,3 +60,4 @@ This log tracks architectural and documentation refinements.
 - `2025-11-28` — license notice
 - `2025-11-29` — more precise stack list
 - `2025-11-30` — badge refresh
+- `2025-12-01` — clarify component responsibilities
