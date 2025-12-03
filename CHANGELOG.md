@@ -64,3 +64,4 @@ This log tracks architectural and documentation refinements.
 - `2025-12-01` — terminology cleanup
 - `2025-12-01` — improve mermaid diagram
 - `2025-12-02` — badge refresh
+- `2025-12-03` — tighten decisions section
