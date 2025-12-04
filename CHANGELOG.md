@@ -68,3 +68,4 @@ This log tracks architectural and documentation refinements.
 - `2025-12-03` — license notice
 - `2025-12-04` — badge refresh
 - `2025-12-04` — clarify component responsibilities
+- `2025-12-04` — rephrase TL;DR
