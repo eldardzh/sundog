@@ -69,3 +69,4 @@ This log tracks architectural and documentation refinements.
 - `2025-12-04` — badge refresh
 - `2025-12-04` — clarify component responsibilities
 - `2025-12-04` — rephrase TL;DR
+- `2025-12-05` — expand 'My Role' section
