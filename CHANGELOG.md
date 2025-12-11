@@ -71,3 +71,4 @@ This log tracks architectural and documentation refinements.
 - `2025-12-04` — rephrase TL;DR
 - `2025-12-05` — expand 'My Role' section
 - `2025-12-11` — rephrase capabilities
+- `2025-12-11` — expand 'My Role' section
