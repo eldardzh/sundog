@@ -73,3 +73,4 @@ This log tracks architectural and documentation refinements.
 - `2025-12-11` — rephrase capabilities
 - `2025-12-11` — expand 'My Role' section
 - `2025-12-11` — expand 'My Role' section
+- `2025-12-12` — ADR — reorg-safe projection
