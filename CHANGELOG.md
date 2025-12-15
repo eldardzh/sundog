@@ -77,3 +77,4 @@ This log tracks architectural and documentation refinements.
 - `2025-12-13` — rephrase capabilities
 - `2025-12-14` — surface key invariants
 - `2025-12-15` — ADR — idempotent execution
+- `2025-12-15` — ADR — risk layer veto authority
