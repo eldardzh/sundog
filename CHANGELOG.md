@@ -80,3 +80,4 @@ This log tracks architectural and documentation refinements.
 - `2025-12-15` — ADR — risk layer veto authority
 - `2025-12-16` — capabilities — clarify wording
 - `2025-12-24` — capabilities — clarify wording
+- `2025-12-24` — badges + status
