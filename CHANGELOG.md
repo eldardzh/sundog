@@ -84,3 +84,4 @@ This log tracks architectural and documentation refinements.
 - `2025-12-25` — refine engineering invariants
 - `2025-12-25` — improve mermaid diagram
 - `2025-12-25` — refine engineering invariants
+- `2026-01-27` — trailing whitespace
