@@ -86,3 +86,4 @@ This log tracks architectural and documentation refinements.
 - `2025-12-25` — refine engineering invariants
 - `2026-01-27` — trailing whitespace
 - `2026-01-27` — contact block tidy
+- `2026-01-28` — cross-link related repositories
