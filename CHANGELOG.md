@@ -87,3 +87,4 @@ This log tracks architectural and documentation refinements.
 - `2026-01-27` — trailing whitespace
 - `2026-01-27` — contact block tidy
 - `2026-01-28` — cross-link related repositories
+- `2026-02-06` — capabilities — clarify wording
