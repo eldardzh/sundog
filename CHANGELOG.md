@@ -90,3 +90,4 @@ This log tracks architectural and documentation refinements.
 - `2026-02-06` — capabilities — clarify wording
 - `2026-02-09` — cross-link related repositories
 - `2026-02-09` — cross-link related repositories
+- `2026-02-13` — tighten decisions section
