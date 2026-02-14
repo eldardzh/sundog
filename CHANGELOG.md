@@ -91,3 +91,4 @@ This log tracks architectural and documentation refinements.
 - `2026-02-09` — cross-link related repositories
 - `2026-02-09` — cross-link related repositories
 - `2026-02-13` — tighten decisions section
+- `2026-02-14` — badges + status
