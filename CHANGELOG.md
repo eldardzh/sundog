@@ -95,3 +95,4 @@ This log tracks architectural and documentation refinements.
 - `2026-05-06` — more precise stack list
 - `2026-05-06` — refine engineering invariants
 - `2026-05-06` — tighten decisions section
+- `2026-05-06` — rephrase capabilities
